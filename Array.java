@@ -1,4 +1,3 @@
-package com.codewithmosh;
 import java.util.Array;
 public class Array {
   private int[] items;
